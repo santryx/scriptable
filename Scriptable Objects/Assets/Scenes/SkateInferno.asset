@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a99860dc09139be45b4399ab038116ff, type: 3}
+  m_Name: SkateInferno
+  m_EditorClassIdentifier: 
+  artefacto: 'Skate Inferno '
+  velocidad: 10
+  salto: 10
+  superVelocidad: 100
+  skateselect: 2
+  skateModel: {fileID: 3646090177600792170, guid: 292234d9d3b283342a503b2504381e9d,
+    type: 3}

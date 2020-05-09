@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a99860dc09139be45b4399ab038116ff, type: 3}
+  m_Name: skatevelocity
+  m_EditorClassIdentifier: 
+  artefacto: 'Skate Velocity '
+  velocidad: 40
+  salto: 5
+  superVelocidad: 10
+  skateselect: 0
+  skateModel: {fileID: 9204291171650569307, guid: 9733d5001942fd64c906b3997f3bc7a9,
+    type: 3}
